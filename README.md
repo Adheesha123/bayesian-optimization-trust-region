@@ -1,5 +1,7 @@
 # Bayesian Optimization with Adaptive Trust Region
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 MATLAB implementation of modified Bayesian Optimization algorithm with adaptive trust region, selective pruning, and periodic exploration.
 
 ## Description
